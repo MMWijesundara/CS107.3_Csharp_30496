@@ -17,6 +17,7 @@ namespace Tut_7
             Console.WriteLine(book1.Title);
             Console.WriteLine(book1.Author);
             Console.ReadLine();
+            Console.WriteLine("new line");
 
         }
     }
