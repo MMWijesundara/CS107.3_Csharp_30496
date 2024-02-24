@@ -1,0 +1,7 @@
+C:\Users\methm\Desktop\CsProjects\Labsheets\Labsheet3\Practicing_constructors\bin\Debug\Practicing_constructors.exe.config
+C:\Users\methm\Desktop\CsProjects\Labsheets\Labsheet3\Practicing_constructors\bin\Debug\Practicing_constructors.exe
+C:\Users\methm\Desktop\CsProjects\Labsheets\Labsheet3\Practicing_constructors\bin\Debug\Practicing_constructors.pdb
+C:\Users\methm\Desktop\CsProjects\Labsheets\Labsheet3\Practicing_constructors\obj\Debug\Practicing_constructors.csproj.AssemblyReference.cache
+C:\Users\methm\Desktop\CsProjects\Labsheets\Labsheet3\Practicing_constructors\obj\Debug\Practicing_constructors.csproj.CoreCompileInputs.cache
+C:\Users\methm\Desktop\CsProjects\Labsheets\Labsheet3\Practicing_constructors\obj\Debug\Practicing_constructors.exe
+C:\Users\methm\Desktop\CsProjects\Labsheets\Labsheet3\Practicing_constructors\obj\Debug\Practicing_constructors.pdb

@@ -1,0 +1,7 @@
+C:\Users\methm\Desktop\CsProjects\Labsheets\Labsheet3\labsheet3_que2\obj\Debug\labsheet3_que2.csproj.AssemblyReference.cache
+C:\Users\methm\Desktop\CsProjects\Labsheets\Labsheet3\labsheet3_que2\obj\Debug\labsheet3_que2.csproj.CoreCompileInputs.cache
+C:\Users\methm\Desktop\CsProjects\Labsheets\Labsheet3\labsheet3_que2\bin\Debug\labsheet3_que2.exe.config
+C:\Users\methm\Desktop\CsProjects\Labsheets\Labsheet3\labsheet3_que2\bin\Debug\labsheet3_que2.exe
+C:\Users\methm\Desktop\CsProjects\Labsheets\Labsheet3\labsheet3_que2\bin\Debug\labsheet3_que2.pdb
+C:\Users\methm\Desktop\CsProjects\Labsheets\Labsheet3\labsheet3_que2\obj\Debug\labsheet3_que2.exe
+C:\Users\methm\Desktop\CsProjects\Labsheets\Labsheet3\labsheet3_que2\obj\Debug\labsheet3_que2.pdb

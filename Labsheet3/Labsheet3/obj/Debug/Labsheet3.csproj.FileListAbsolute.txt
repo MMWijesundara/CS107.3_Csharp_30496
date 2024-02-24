@@ -1,0 +1,7 @@
+C:\Users\methm\Desktop\CsProjects\Labsheets\Labsheet3\Labsheet3\bin\Debug\Labsheet3.exe.config
+C:\Users\methm\Desktop\CsProjects\Labsheets\Labsheet3\Labsheet3\bin\Debug\Labsheet3.exe
+C:\Users\methm\Desktop\CsProjects\Labsheets\Labsheet3\Labsheet3\bin\Debug\Labsheet3.pdb
+C:\Users\methm\Desktop\CsProjects\Labsheets\Labsheet3\Labsheet3\obj\Debug\Labsheet3.csproj.AssemblyReference.cache
+C:\Users\methm\Desktop\CsProjects\Labsheets\Labsheet3\Labsheet3\obj\Debug\Labsheet3.csproj.CoreCompileInputs.cache
+C:\Users\methm\Desktop\CsProjects\Labsheets\Labsheet3\Labsheet3\obj\Debug\Labsheet3.exe
+C:\Users\methm\Desktop\CsProjects\Labsheets\Labsheet3\Labsheet3\obj\Debug\Labsheet3.pdb

@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\methm\\Desktop\\CsProjects\\Labsheets\\Labsheet3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B752744-574D-413B-9E2A-7701ABD19DC6}|labsheet3_que3\\labsheet3_que3.csproj|c:\\users\\methm\\desktop\\csprojects\\labsheets\\labsheet3\\labsheet3_que3\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B752744-574D-413B-9E2A-7701ABD19DC6}|labsheet3_que3\\labsheet3_que3.csproj|solutionrelative:labsheet3_que3\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B752744-574D-413B-9E2A-7701ABD19DC6}|labsheet3_que3\\labsheet3_que3.csproj|c:\\users\\methm\\desktop\\csprojects\\labsheets\\labsheet3\\labsheet3_que3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B752744-574D-413B-9E2A-7701ABD19DC6}|labsheet3_que3\\labsheet3_que3.csproj|solutionrelative:labsheet3_que3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53060F0-7513-4AD8-8347-526FF7321BF5}|Labsheet3_que1\\Labsheet3_que1.csproj|C:\\Users\\methm\\Desktop\\CsProjects\\Labsheets\\Labsheet3\\labsheet3_que1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53060F0-7513-4AD8-8347-526FF7321BF5}|Labsheet3_que1\\Labsheet3_que1.csproj|solutionrelative:labsheet3_que1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D53060F0-7513-4AD8-8347-526FF7321BF5}|Labsheet3_que1\\Labsheet3_que1.csproj|C:\\Users\\methm\\Desktop\\CsProjects\\Labsheets\\Labsheet3\\labsheet3_que1\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D53060F0-7513-4AD8-8347-526FF7321BF5}|Labsheet3_que1\\Labsheet3_que1.csproj|solutionrelative:labsheet3_que1\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 464,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\methm\\Desktop\\CsProjects\\Labsheets\\Labsheet3\\labsheet3_que3\\Product.cs",
+              "RelativeDocumentMoniker": "labsheet3_que3\\Product.cs",
+              "ToolTip": "C:\\Users\\methm\\Desktop\\CsProjects\\Labsheets\\Labsheet3\\labsheet3_que3\\Product.cs",
+              "RelativeToolTip": "labsheet3_que3\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T07:09:49.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "course.cs",
+              "DocumentMoniker": "C:\\Users\\methm\\Desktop\\CsProjects\\Labsheets\\Labsheet3\\Labsheet3_que1\\course.cs",
+              "RelativeDocumentMoniker": "Labsheet3_que1\\course.cs",
+              "ToolTip": "C:\\Users\\methm\\Desktop\\CsProjects\\Labsheets\\Labsheet3\\Labsheet3_que1\\course.cs",
+              "RelativeToolTip": "Labsheet3_que1\\course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T07:04:57.886Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 411,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\methm\\Desktop\\CsProjects\\Labsheets\\Labsheet3\\labsheet3_que3\\Program.cs",
+              "RelativeDocumentMoniker": "labsheet3_que3\\Program.cs",
+              "ToolTip": "C:\\Users\\methm\\Desktop\\CsProjects\\Labsheets\\Labsheet3\\labsheet3_que3\\Program.cs",
+              "RelativeToolTip": "labsheet3_que3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T07:09:42.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\methm\\Desktop\\CsProjects\\Labsheets\\Labsheet3\\Labsheet3_que1\\Program.cs",
+              "RelativeDocumentMoniker": "Labsheet3_que1\\Program.cs",
+              "ToolTip": "C:\\Users\\methm\\Desktop\\CsProjects\\Labsheets\\Labsheet3\\Labsheet3_que1\\Program.cs",
+              "RelativeToolTip": "Labsheet3_que1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T07:04:53.151Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
